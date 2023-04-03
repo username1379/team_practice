@@ -1,3 +1,5 @@
-# team_practice
-Name Sec_name: username1379
-Another_name Another_sec_name: ShikariNM
+# GitHub practicing!
+
+## team_practice
+team_lead: usename1379
+developer: ShikariNM
