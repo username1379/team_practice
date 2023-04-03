@@ -1,0 +1,1 @@
+Create the file INFO.md and copy some random text there
